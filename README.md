@@ -1,6 +1,6 @@
-#SpaceShip
-Programming Fundamentals II
-Project by Sisira Wanthong Student ID:6130300867
+# SpaceShip
+ Programming Fundamentals II
+ Project by Sisira Wanthong Student ID: 6130300867
 # What is SpaceShip ?
 It's game that player must control space ship for fight with alien ship.
 Player rid more alien ship,can do?
